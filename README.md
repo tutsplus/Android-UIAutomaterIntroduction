@@ -1,7 +1,9 @@
-### Tuts+ Tutorial: How to Automate UI Testing on Android
+### Tuts+ Tutorial: Automating User Interface Testing on Android
 
 #### Instructor: Hathibelagal Ashraff
 
-In this tutorial, you are going to learn how to test the user interface of any app installed on an Android device using the new UI Automator testing framework.
+Android's Testing Support library includes the UI Automator framework, which can be used to perform automated black-box testing on Android apps. Introduced in API Level 18, the framework allows developers to simulate user actions on the widgets that constitute an app's user interface. In this tutorial, you will learn how to test the user interface of any app installed on an Android device using the UI Automator testing framework.
 
-Source files for the Tuts+ tutorial: [How to Automate UI Testing on Android](http://code.tutsplus.com/tutorials/how-to-automate-ui-testing-on-android--cms-23969)
+Source Files for the Tuts+ tutorial: [Automating User Interface Testing on Android](http://code.tutsplus.com/tutorials/automating-user-interface-testing-on-android--cms-23969)
+
+**Read this tutorial on [Tuts+](https://code.tutsplus.com)**
